@@ -171,7 +171,7 @@ const OQITUVCHILAR = [
     lavozim: "Professor v.b.",
     rol: "oqituvchi",
     ilmiyDaraja: "t.f.f.d (PhD)",
-    rasm: "./js/pics/teachers/Sirojiddin_Valiyevich_Djiyanboyev.JPG",
+    rasm: "./js/pics/teachers/Sirojiddin_Valiyevich_Djiyanboyev.jpg",
     telefon: "mavjud emas",
     email: "mavjud emas",
     ishVaqti: "mavjud emas",
